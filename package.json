@@ -9,7 +9,7 @@
   "repository": "https://github.com/LambdaSchool/webdb-i-challenge",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "index.js": "^0.0.3",
     "knex": "^0.16.5",
     "server.js": "^1.0.0",
